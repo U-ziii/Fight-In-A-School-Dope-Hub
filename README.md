@@ -2,7 +2,7 @@
 
 Take control of the fight with **Dope Hub** for *Fight In A School*! This sleek, **keyless** script unlocks every fighting style, boosts your movement, and lets you customize your combat experience with precision speed and walk modifiers. It’s your street-smart edge in the schoolyard brawl.
 
-![script-image](image-link-placeholder)
+![script-image](https://github.com/U-ziii/Fight-In-A-School-Dope-Hub/blob/main/Fight%20In%20A%20School%20-%20Dope%20Hub.png)
 
 ---
 
